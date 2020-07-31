@@ -1,0 +1,10 @@
+﻿{ 
+  "ServiceName": "createuser",
+  "Urlsuffix": "/users/1",
+  "Connectionvalues": "Accept",
+  "ContentType": "application/json",
+  "MethodType": "POST",
+  "RequestUrl": "https://reqres.in/api/users",
+  "RequestBody": {"name": "morpheus","job": "leader"},
+  "Params": {"NAME": "name"}
+  }

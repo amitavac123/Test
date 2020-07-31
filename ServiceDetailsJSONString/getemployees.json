@@ -1,0 +1,10 @@
+﻿{ 
+  "ServiceName": "getemployees",
+  "Urlsuffix": "/users/1",
+  "Connectionvalues": "Accept",
+  "ContentType": "application/json",
+  "MethodType": "GET",
+  "RequestUrl": "https://jsonplaceholder.typicode.com",
+  "RequestBody": "",
+  "Params": {"STREET": "address.street","ID": "id"}
+  }
